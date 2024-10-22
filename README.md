@@ -1,1 +1,6 @@
-# dkarz-curr-projet
+# Selected Projects
+## Author: Daniil Karzanov
+
+### Contents 
+- Detox
+- Epid

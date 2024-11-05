@@ -1,4 +1,4 @@
-##‎ 
+##‎ Selected Projects
 ---
 
 ### AI Navigation in Android Game

@@ -1,5 +1,3 @@
-## Selected Projects 
----
 
 
 

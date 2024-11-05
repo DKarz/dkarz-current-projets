@@ -54,3 +54,13 @@
   <img src="media/epid_collage.png" width="75%" style="display: block; margin: auto;">
 </figure>
 
+
+### AI Anime Dubbing
+
+<div align="center">
+  <iframe width="560" height="315" src="https://youtu.be/6PiZsBiUkOI" 
+          title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; 
+          clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen>
+  </iframe>
+</div>
+

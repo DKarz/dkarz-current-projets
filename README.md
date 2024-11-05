@@ -1,7 +1,32 @@
-## ‎‎⠀
+
+### AI Navigation in Android Game
+[Check out the post](https://dkarz.github.io/game-AI-navigation/)
+-  Trained a DRL agent for enemy AI behavior in my mobile game
+-  Designed an agent with perceptive inputs to enable adaptive navigation and obstacle avoidance
+<figure >
+  <img src="media/demo_game.gif" width="38%" style="display: block; margin: auto;">
+</figure>
+
+‎ 
+‎ 
+---
+
+‎ 
+
 ### Mock Interview AI Assistant - LauzHack Hackathon
 [Code](https://github.com/BMehron/MockMaster_v1/tree/main)
 - Used LangChain and OpenAI API to develop a bot simulating DS/ML interviews.
+
+<figure>
+  <img src="media/mock.png" width="38%">
+</figure>
+
+‎ 
+
+---
+
+‎ 
+
 
 ### Detoxification Alignment in Transformer Models
 [Code](https://github.com/DKarz/detox-lang/blob/main/model_train_ddetox.ipynb)
@@ -9,8 +34,15 @@
 - Integrated a pre-trained transformer chat model from Hugging Face into a bot for message detoxification.
 
 
+---
+
+
 ### Epidemic Mitigation with Reinforcement Learning - EPFL
 [Code](https://colab.research.google.com/drive/1hK1tAh0FpOAyI1lwlC310UWIk3iCVD_4?usp=sharing)
 - Implemented Deep Q-Network algorithm in PyTorch.
 - Trained an agent acting in different epidemic scenarios in Switzerland.
+
+<figure >
+  <img src="media/epid_collage.png" width="38%" style="display: block; margin: auto;">
+</figure>
 

@@ -1,4 +1,4 @@
-##  
+##‎ 
 ---
 
 ### AI Navigation in Android Game
@@ -6,7 +6,7 @@
 -  Trained a DRL agent for enemy AI behavior in my mobile game
 -  Designed an agent with perceptive inputs to enable adaptive navigation and obstacle avoidance
 <figure >
-  <img src="media/demo_game.gif" width="45%" style="display: block; margin: auto;">
+  <img src="media/demo_game.gif" width="65%" style="display: block; margin: auto;">
 </figure>
 
 ‎ 
@@ -21,7 +21,7 @@
 - Used LangChain and OpenAI API to develop a bot simulating DS/ML interviews.
 
 <figure>
-  <img src="media/mock.png" width="45%" style="display: block; margin: auto;">
+  <img src="media/mock.png" width="65%" style="display: block; margin: auto;">
 </figure>
 
 ‎ 
@@ -46,6 +46,6 @@
 - Trained an agent acting in different epidemic scenarios in Switzerland.
 
 <figure >
-  <img src="media/epid_collage.png" width="45%" style="display: block; margin: auto;">
+  <img src="media/epid_collage.png" width="75%" style="display: block; margin: auto;">
 </figure>
 

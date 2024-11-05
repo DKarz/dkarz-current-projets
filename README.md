@@ -1,5 +1,7 @@
-##‎ Selected Projects
+## Selected Projects 
 ---
+
+
 
 ### AI Navigation in Android Game
 [Check out the post](https://dkarz.github.io/game-AI-navigation/)

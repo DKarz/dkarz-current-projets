@@ -36,8 +36,11 @@
 - Fine-tuned T5 conditional generator on a dataset of rude Internet comments to handle negative inputs.
 - Integrated a pre-trained transformer chat model from Hugging Face into a bot for message detoxification.
 
+‎ 
 
 ---
+
+‎ 
 
 
 ### Epidemic Mitigation with Reinforcement Learning - EPFL

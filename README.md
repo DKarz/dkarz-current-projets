@@ -1,4 +1,5 @@
-####
+##  
+---
 
 ### AI Navigation in Android Game
 [Check out the post](https://dkarz.github.io/game-AI-navigation/)
@@ -9,10 +10,11 @@
 </figure>
 
 ‎ 
-‎ 
+
 ---
 
 ‎ 
+
 
 ### Mock Interview AI Assistant - LauzHack Hackathon
 [Code](https://github.com/BMehron/MockMaster_v1/tree/main)
